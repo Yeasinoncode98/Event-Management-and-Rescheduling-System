@@ -316,7 +316,7 @@ Contributions are welcome! Here's how:
 ```
 MIT License
 
-Copyright (c) 2025 Md. Yeasin Arafat
+Copyright (c) 2025 Sk. Yeasin Arafat
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -353,10 +353,10 @@ SOFTWARE.
 | Field | Info |
 |---|---|
 | **Version** | 1.0.0 |
-| **Developer** | Md. Yeasin Arafat |
+| **Developer** | Sk. Yeasin Arafat |
 | **Institution** | Daffodil International University |
 | **Department** | Computer Science and Engineering |
-| **Semester** | 3rd Semester |
+| **Semester** | 4th Semester |
 | **Course** | Data Structures |
 | **Status** | ✅ Complete |
 
@@ -374,7 +374,7 @@ SOFTWARE.
 
 **Made with ❤️ for Data Structures — 3rd Semester Project**
 
-**Developed by Md. Yeasin Arafat**
+**Developed by Sk. Yeasin Arafat**
 *Department of CSE, Daffodil International University*
 
 ⭐ Star this project if you found it helpful!
